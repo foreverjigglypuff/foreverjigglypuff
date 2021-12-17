@@ -1,3 +1,3 @@
 # my portfolio
 
-foreverjigglypuff.github.io
+<a href="https://foreverjigglypuff.github.io" target="_blanck">foreverjigglypuff.github.io</a>
